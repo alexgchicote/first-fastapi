@@ -1,7 +1,7 @@
 """add vote
 
 Revision ID: 7d19b620ea93
-Revises: 67aa7ad6c3f1
+Revises: 3cebc9ef768c
 Create Date: 2022-01-31 12:58:07.722542
 
 """
@@ -11,7 +11,7 @@ import sqlalchemy as sa
 
 # revision identifiers, used by Alembic.
 revision = '7d19b620ea93'
-down_revision = '67aa7ad6c3f1'
+down_revision = '3cebc9ef768c'
 branch_labels = None
 depends_on = None
 
